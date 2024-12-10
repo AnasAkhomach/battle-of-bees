@@ -1,0 +1,24 @@
+# Ignore everything by default
+*
+
+# Allow only the Scripts folder under Assets
+
+# Ignore unnecessary Unity folders
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore build output
+Builds/
